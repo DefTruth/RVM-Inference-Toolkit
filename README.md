@@ -5,6 +5,9 @@
   <img src=https://img.shields.io/github/watchers/DefTruth/RobustVideoMatting.lite.ai.toolkit.svg?style=social>
 </div>
 
+## News 👇👇
+Most of my time now is focused on **LLM/VLM** Inference. Please check 📖[Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-LLM-Inference.svg?style=social), 📖[Awesome-SD-Distributed-Inference](https://github.com/DefTruth/Awesome-SD-Distributed-Inference)  ![](https://img.shields.io/github/stars/DefTruth/Awesome-SD-Distributed-Inference.svg?style=social) and 📖[CUDA-Learn-Notes](https://github.com/DefTruth/CUDA-Learn-Notes)  ![](https://img.shields.io/github/stars/DefTruth/CUDA-Learn-Notes.svg?style=social) for more details.
+
 ## 1. 简介  
 使用Lite.AI.ToolKit C++工具箱来跑RobustVideoMatting的一些案例(https://github.com/DefTruth/lite.ai.toolkit) ，ONNXRuntime、MNN、NCNN和TNN四个版本。
 
